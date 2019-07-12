@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
 
                     fillLexArr(res);
 
-                    System.out.print("chinu"+ lexArr.size());
+
 
                     //inflate the view
                     rvLex.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
